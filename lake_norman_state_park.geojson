@@ -1,15 +1,10 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2015-04-21T10:43:02Z",
   "features": [
     {
       "type": "Feature",
       "id": "way/267163781",
       "properties": {
-        "@id": "way/267163781",
-        "highway": "cycleway",
         "name": "Norwood Loop"
       },
       "geometry": {
@@ -1262,8 +1257,6 @@
       "type": "Feature",
       "id": "way/268192576",
       "properties": {
-        "@id": "way/268192576",
-        "highway": "cycleway",
         "name": "Hawk Loop"
       },
       "geometry": {
@@ -2744,8 +2737,6 @@
       "type": "Feature",
       "id": "way/271516069",
       "properties": {
-        "@id": "way/271516069",
-        "highway": "cycleway",
         "name": "Norwood Loop"
       },
       "geometry": {
@@ -2890,8 +2881,6 @@
       "type": "Feature",
       "id": "way/288792701",
       "properties": {
-        "@id": "way/288792701",
-        "highway": "cycleway",
         "name": "Hicks Creek Loop"
       },
       "geometry": {
@@ -3392,8 +3381,6 @@
       "type": "Feature",
       "id": "way/289044391",
       "properties": {
-        "@id": "way/289044391",
-        "highway": "cycleway",
         "name": "Monbo Loop"
       },
       "geometry": {
@@ -5410,8 +5397,6 @@
       "type": "Feature",
       "id": "way/337123330",
       "properties": {
-        "@id": "way/337123330",
-        "highway": "cycleway",
         "name": "Laurel Loop"
       },
       "geometry": {
@@ -7756,8 +7741,6 @@
       "type": "Feature",
       "id": "way/337123331",
       "properties": {
-        "@id": "way/337123331",
-        "highway": "cycleway",
         "name": "Laurel Loop"
       },
       "geometry": {
@@ -11294,8 +11277,6 @@
       "type": "Feature",
       "id": "way/337282008",
       "properties": {
-        "@id": "way/337282008",
-        "highway": "cycleway",
         "name": "Wildlife Loop"
       },
       "geometry": {
@@ -13232,8 +13213,6 @@
       "type": "Feature",
       "id": "way/337282443",
       "properties": {
-        "@id": "way/337282443",
-        "highway": "cycleway",
         "name": "Fallstown Loop"
       },
       "geometry": {
@@ -13754,8 +13733,6 @@
       "type": "Feature",
       "id": "way/337283060",
       "properties": {
-        "@id": "way/337283060",
-        "highway": "cycleway",
         "name": "Fox Loop"
       },
       "geometry": {
