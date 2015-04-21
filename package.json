@@ -1,0 +1,28 @@
+{
+  "name": "mtb-trails",
+  "version": "1.0.0",
+  "description": "Charlotte Mountain Bike Trails in GeoJSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/uglifyjs --expr lake_norman_state_park.geojson -o lake_norman_state_park.min.geojson"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonSanford/mtb-trails.git"
+  },
+  "keywords": [
+    "mtb",
+    "trails",
+    "charlotte"
+  ],
+  "author": "Jason Sanford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasonSanford/mtb-trails/issues"
+  },
+  "homepage": "https://github.com/JasonSanford/mtb-trails",
+  "dependencies": {
+    "uglify-js": "^2.4.20"
+  }
+}
