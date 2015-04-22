@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/uglifyjs --expr trails/lake_norman_state_park.geojson -o trails/lake_norman_state_park.min.geojson"
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,9 @@
     "url": "https://github.com/JasonSanford/mtb-trails/issues"
   },
   "homepage": "https://github.com/JasonSanford/mtb-trails",
-  "dependencies": {
-    "uglify-js": "^2.4.20"
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jsonminify": "^1.0.0"
   }
 }
