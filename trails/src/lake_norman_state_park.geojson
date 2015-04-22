@@ -5,7 +5,10 @@
       "type": "Feature",
       "id": "way/267163781",
       "properties": {
-        "name": "Norwood Loop"
+        "name": "Norwood Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -1257,7 +1260,10 @@
       "type": "Feature",
       "id": "way/268192576",
       "properties": {
-        "name": "Hawk Loop"
+        "name": "Hawk Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -2737,7 +2743,10 @@
       "type": "Feature",
       "id": "way/271516069",
       "properties": {
-        "name": "Norwood Loop"
+        "name": "Norwood Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -2881,7 +2890,10 @@
       "type": "Feature",
       "id": "way/288792701",
       "properties": {
-        "name": "Hicks Creek Loop"
+        "name": "Hicks Creek Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -3381,7 +3393,10 @@
       "type": "Feature",
       "id": "way/289044391",
       "properties": {
-        "name": "Monbo Loop"
+        "name": "Monbo Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -5397,7 +5412,10 @@
       "type": "Feature",
       "id": "way/337123330",
       "properties": {
-        "name": "Laurel Loop"
+        "name": "Laurel Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -7741,7 +7759,10 @@
       "type": "Feature",
       "id": "way/337123331",
       "properties": {
-        "name": "Laurel Loop"
+        "name": "Laurel Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -11277,7 +11298,10 @@
       "type": "Feature",
       "id": "way/337282008",
       "properties": {
-        "name": "Wildlife Loop"
+        "name": "Wildlife Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -13213,7 +13237,10 @@
       "type": "Feature",
       "id": "way/337282443",
       "properties": {
-        "name": "Fallstown Loop"
+        "name": "Fallstown Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
@@ -13733,7 +13760,10 @@
       "type": "Feature",
       "id": "way/337283060",
       "properties": {
-        "name": "Fox Loop"
+        "name": "Fox Loop",
+        "stroke": "#0b6121",
+        "stroke-opacity": 0.7,
+        "stroke-width": 2.5
       },
       "geometry": {
         "type": "LineString",
