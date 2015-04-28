@@ -8,7 +8,7 @@
         "name": "Norwood Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -1263,7 +1263,7 @@
         "name": "Hawk Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -2746,7 +2746,7 @@
         "name": "Norwood Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -2893,7 +2893,7 @@
         "name": "Hicks Creek Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -3396,7 +3396,7 @@
         "name": "Monbo Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -5415,7 +5415,7 @@
         "name": "Laurel Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -7762,7 +7762,7 @@
         "name": "Laurel Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -11301,7 +11301,7 @@
         "name": "Wildlife Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -13240,7 +13240,7 @@
         "name": "Fallstown Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -13763,7 +13763,7 @@
         "name": "Fox Loop",
         "stroke": "#0b6121",
         "stroke-opacity": 0.7,
-        "stroke-width": 2.5
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
