@@ -7755,22 +7755,7 @@
           [
             -80.9312556,
             35.6678383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/337123331",
-      "properties": {
-        "name": "Laurel Loop",
-        "stroke": "#0b6121",
-        "stroke-opacity": 0.7,
-        "stroke-width": 3
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
+          ],
           [
             -80.9312556,
             35.6678383
