@@ -22,9 +22,7 @@
     "url": "https://github.com/JasonSanford/mtb-trails/issues"
   },
   "homepage": "https://github.com/JasonSanford/mtb-trails",
-  "dependencies": {},
-  "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-jsonminify": "^1.0.0"
+  "dependencies": {
+    "query-overpass": "^1.1.0"
   }
 }
